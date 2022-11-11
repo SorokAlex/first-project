@@ -1,0 +1,22 @@
+.page {
+    font-family: 'Cormorant Garamond';
+  }
+  
+  .page__menu {
+    margin: 40px auto;
+  }
+  
+  .list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .centered-block {
+    margin: auto;
+  }
+  
+  .content {
+    max-width: 1330px;
+    min-width: 1280px;
+  }
